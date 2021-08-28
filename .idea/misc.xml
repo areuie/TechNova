@@ -3,15 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout-w1240dp/activity_userlogin.xml" value="0.41328125" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout-w936dp/activity_userlogin.xml" value="0.4002375296912114" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_userlogin.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_first.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_second.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/layout/sign_in.xml" value="0.23596014492753623" />
-        <entry key="..\:/Users/areuu/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/emami/Documents/GitHub/TechNova/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/emami/Documents/GitHub/TechNova/app/src/main/res/layout/activity_userlogin.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/emami/Documents/GitHub/TechNova/app/src/main/res/layout/content_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/emami/Documents/GitHub/TechNova/app/src/main/res/layout/fragment_first.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/emami/Documents/GitHub/TechNova/app/src/main/res/layout/fragment_second.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/mona1/OneDrive/Documents/GitHub/TechNova/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/mona1/OneDrive/Documents/GitHub/TechNova/app/src/main/res/layout/fragment_first.xml" value="0.2" />
       </map>
     </option>
   </component>
