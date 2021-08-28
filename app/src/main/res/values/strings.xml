@@ -11,4 +11,7 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="here">here</string>
     <string name="welcome_to_tinder">welcome to tinder</string>
+    <string name="welcome_to_frienderly">welcome to Frienderly</string>
+    <string name="frienderly">Frienderly</string>
+    <string name="sign_up">Sign up</string>
 </resources>
